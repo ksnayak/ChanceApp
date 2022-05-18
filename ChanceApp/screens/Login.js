@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {StyleSheet, Text, View, Image, Animated} from 'react-native';
+
 import Button from '../components/Button';
 import {color} from '../constant/color';
 
